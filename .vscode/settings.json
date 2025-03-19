@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Desafio-sintaxe-DIO/src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
